@@ -1,0 +1,8 @@
+langchain
+langchain-community
+langchain-ollama
+crewai
+crewai-tools
+python-dotenv
+openai
+duckduckgo-search
